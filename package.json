@@ -1,0 +1,21 @@
+{
+  "name": "coin-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoomuu0227/coin-node.git"
+  },
+  "private": true,
+  "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "p-limit": "^3.1.0",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
